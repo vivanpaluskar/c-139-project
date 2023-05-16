@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid rgb(214, 190, 5);
+}
+#start{
+    font-size: 22px;
+    border-style: double;
+    border-color: rgb(69, 110, 222);
+    border-width: 5px;
+}
+#restart{
+    font-size: 22px;
+    border-style: double;
+    border-color: rgb(47, 50, 232);
+    border-width: 5px;
+}
+#status{
+    font-size: 22px;
+}
+.footer{
+    padding-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+    color: aliceblue;
+}
